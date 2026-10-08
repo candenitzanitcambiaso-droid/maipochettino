@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-vim.svg" width="960" alt="profile.yml de Mailén Pochettino abierto en vim">
+<img src="assets/profile-vim.v2.svg" width="960" alt="profile.yml de Mailén Pochettino abierto en vim">
 
 <br>
 
@@ -13,7 +13,7 @@
 ## `$ whoami`
 
 <p align="center">
-  <img src="assets/whoami.svg" width="960" alt="Terminal city-pop con el perfil de Mailén Pochettino">
+  <img src="assets/whoami.v2.svg" width="960" alt="Terminal city-pop con el perfil de Mailén Pochettino">
 </p>
 
 <div align="center">
@@ -58,19 +58,3 @@
 </div>
 
 ---
-
-
-<!--
-**maipochettino/maipochettino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

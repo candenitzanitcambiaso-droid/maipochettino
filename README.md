@@ -58,3 +58,16 @@
 </div>
 
 ---
+
+## `$ git log --stat`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maipochettino&show_icons=true&hide_border=false&border_color=1f2c47&border_radius=12&bg_color=0b101c&title_color=f8b4c8&text_color=ffffff&icon_color=f8b4c8&ring_color=f8b4c8" alt="Estadísticas de GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maipochettino&layout=compact&hide_border=false&border_color=1f2c47&border_radius=12&bg_color=0b101c&title_color=f8b4c8&text_color=ffffff" alt="Lenguajes más usados">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=maipochettino&background=0b101c&border=1f2c47&stroke=1f2c47&ring=f8b4c8&fire=ff8fb3&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=f8b4c8&sideLabels=f8b4c8&dates=c9c9d6&border_radius=12" alt="Racha de contribuciones">
+</p>
+
+---
